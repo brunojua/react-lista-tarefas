@@ -1,2 +1,3 @@
 # react-lista-tarefas
-Created with CodeSandbox
+
+Link para projeto https://7wnsg3.csb.app/
